@@ -1,0 +1,6 @@
+# ninja log v5
+0	182	1672287738712981565	CMakeFiles/exercise4.dir/printFloat.cpp.o	e96931d52cdae368
+0	183	1672287738712981565	CMakeFiles/exercise4.dir/main.cpp.o	fa1ceb084a948d99
+183	464	1672287739002981586	exercise4	3e0ab9aea5ac81ae
+0	146	1672287797942983337	CMakeFiles/exercise4.dir/printFloat.cpp.o	e96931d52cdae368
+146	497	1672287798292983439	exercise4	3e0ab9aea5ac81ae

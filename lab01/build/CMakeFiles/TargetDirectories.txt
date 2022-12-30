@@ -1,0 +1,3 @@
+/home/tseyu/CppSUStech/lab01/build/CMakeFiles/lab01.dir
+/home/tseyu/CppSUStech/lab01/build/CMakeFiles/edit_cache.dir
+/home/tseyu/CppSUStech/lab01/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/tseyu/CppSUStech/lab02/instance2/build/CMakeFiles/instance2.dir
+/home/tseyu/CppSUStech/lab02/instance2/build/CMakeFiles/edit_cache.dir
+/home/tseyu/CppSUStech/lab02/instance2/build/CMakeFiles/rebuild_cache.dir
