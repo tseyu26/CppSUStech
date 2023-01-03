@@ -11,15 +11,19 @@
 int main(){
 
     char ch{};
-    char mystring[]{""};
+    char mystring[]{};
     std::cout << "Please input a string: \n";
-    std::cin >> mystring;
+    std::cin.getline (mystring, 20);
 
     std::cout << "Please input a character: \n";
     std::cin >> ch;
 
-    const char* mych = mystring;
-    char result[]{};
-    result = match(mych,ch);
+    char* mych = match(mystring,ch);
+    if (mych){
+        std::cout << mych << std::endl;
+    }else{
+        std::cout << "Not found.\n";
+    }
+
     return 0;
 }
